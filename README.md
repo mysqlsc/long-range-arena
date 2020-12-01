@@ -112,6 +112,7 @@ This section describes the methods to obtain the datasets and run the tasks in
 LRA.
 
 To download the datasets, please download it from `gs://long-range-arena/lra_release`.
+If permissions fail, you may download the entire gziped file at https://storage.googleapis.com/long-range-arena/lra_release.gz. 
 
 ### ListOps
 
